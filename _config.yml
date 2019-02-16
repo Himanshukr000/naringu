@@ -12,7 +12,7 @@ permalink:           pretty
 title:               Naringu
 tagline:             'A Hacker like jekyll theme'
 description:         'oonlab is crafted with <3 by ariestiyansyah.'
-url:                 http://naringu.oonlab.com
+#url:                 http://naringu.oonlab.com
 baseurl:             /naringu
 paginate:            7
 
