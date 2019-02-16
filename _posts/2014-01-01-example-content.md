@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Example content
-categories:
-- naringu
+categories: naringu
+permalink: example-content
 ---
 
 
