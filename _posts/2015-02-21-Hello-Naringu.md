@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Hello Naringu!
-categories:
-- naringu
+categories: naringu
+permalink: hello-naringu
 ---
 
 Naringu is a hacker like jekyll dark theme, it's based on [Poole](http://getpoole.com), the Jekyll butler.

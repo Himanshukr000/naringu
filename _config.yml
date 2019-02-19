@@ -5,15 +5,14 @@ highlighter:         pygments
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
 #relative_permalinks: true
 
 # Setup
 title:               Naringu
 tagline:             'A Hacker like jekyll theme'
 description:         'oonlab is crafted with <3 by ariestiyansyah.'
-#url:                 http://naringu.oonlab.com
-baseurl:             /
+url:                 https://himanshukr000.github.io
+
 paginate:            7
 
 # About/contact
