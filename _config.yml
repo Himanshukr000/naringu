@@ -11,7 +11,8 @@ highlighter:         rouge
 title:               Naringu
 tagline:             'A Hacker like jekyll theme'
 description:         'oonlab is crafted with <3 by ariestiyansyah.'
-url:                 https://himanshukr000.github.io/naringu
+url:                 https://himanshukr000.github.io/
+baseurl:             '/naringu'
 
 paginate:            7
 
